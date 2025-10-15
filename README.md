@@ -1,4 +1,4 @@
-# 🏆 Galamsey Data Visualization Hackathon (1st Place Winner, April 2025)
+# Galamsey Data Visualization Hackathon (1st Place Winner, April 2025)
 
 <img width="564" height="421" alt="image" src="https://github.com/user-attachments/assets/8d6bf1f1-bd94-4a63-b968-18e696b54723" />
 
