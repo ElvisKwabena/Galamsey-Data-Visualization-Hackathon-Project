@@ -1,6 +1,6 @@
 # Galamsey Data Visualization Hackathon (1st Place Winner, April 2025)
 
-<img width="564" height="421" alt="image" src="https://github.com/user-attachments/assets/8d6bf1f1-bd94-4a63-b968-18e696b54723" />
+<img width="664" height="421" alt="image" src="https://github.com/user-attachments/assets/8d6bf1f1-bd94-4a63-b968-18e696b54723" />
 
 
 This project was developed for the **Open Databank Ghana Illegal Mining (Galamsey) Data Visualization Hackathon**, a challenge aimed at raising awareness about the devastating effects of illegal mining on Ghana’s water bodies and environment.  
